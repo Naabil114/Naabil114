@@ -11,14 +11,14 @@ Hi there! I'm a passionate developer focused on creating innovative solutions an
 
 ## 🚀 Skills
 
-```javascript
+
 const skills = {
   languages: ['JavaScript', 'PHP', 'Java', 'HTML/CSS'],
   frameworks: ['React', 'Laravel', 'Codeigniter 4'],
   databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
   tools: ['Git',  'VS Code', 'Figma'],
 }
-```
+
 
 ## 📊 GitHub Stats
 
