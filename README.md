@@ -1,6 +1,7 @@
 ## Hi I'm Muhammad Nabil 👋
 
-INGIN PINTAR TAPI MALAS BELAJAR
+--INGIN PINTAR TAPI MALAS NGETIK--
+          -- 404 --
 
 ##### Technologies
 
