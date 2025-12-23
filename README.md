@@ -1,6 +1,6 @@
 ## Hi I'm Muhammad Nabil 👋
 
-![](img/github-header-image.png)
+INGIN PINTAR TAPI MALAS BELAJAR
 
 ##### Technologies
 
